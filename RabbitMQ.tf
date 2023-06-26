@@ -1,1 +1,1 @@
-I also wish to create a terraform folder for a RabbitMQ server
+I also wish to create a terraform file for a RabbitMQ server
