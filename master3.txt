@@ -1,1 +1,4 @@
 adding a new txt file
+
+Region        = USeast2
+Provider      = AWS
