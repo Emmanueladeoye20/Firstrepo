@@ -1,4 +1,4 @@
 adding a new txt file
 
-Region        = USeast2
+Region        = USeast1
 Provider      = AWS
